@@ -1,0 +1,4 @@
+<launch>
+    <node name="publisher_node"  pkg="rospy-templates" type="publisher.py" output="screen"></node>
+    <node name="subscriber_node" pkg="rospy-templates" type="subscriber.py" output="screen"></node>
+</launch>
