@@ -1,4 +1,4 @@
-# Ezy ROS Python Package template
+# Ezy ROS Python Package template 😍✅ 
 Quick and easy! Why go through all the ROS tutorials again when all you wanna do is save time?
 
 Create your workspace, download the template and start developing! This simple template will get you started on any ROS project in Python under 5 minutes! What are you waiting for?
